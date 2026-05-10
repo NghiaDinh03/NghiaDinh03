@@ -1,46 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Nghĩa%20Đinh&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20%7C%20Automation%20DevOps&descSize=18&descAlignY=55&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Nghĩa%20Đinh&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Nghiadu03&descSize=18&descAlignY=55&descColor=8b949e"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=SOC+Tier+1+Analyst+%40+NCS+Vietnam;Automation+Workflows+%7C+n8n+%7C+Python;Always+learning%2C+always+building.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### 🧑‍💻 About Me
-
-> *"I chose the college path to pursue a major in cybersecurity, which might be seen as a disadvantage compared to other university students. However, I remain undeterred and determined to demonstrate my dedication and effort at my current level and have been recognized by many people."*
-
-- 🛡️ SOC Tier 1 Analyst at **NCS - Vietnam National Cyber Security Technology**
-- 🎓 Studying at **VNUHCM - UIT** (02/2025 - Present)
-- ⚙️ Building automation pipelines with **n8n** and integrating AI into security assessments
-- 🔍 Experienced in **SIEM/SOAR**, advanced log analysis, and attacker tactics research
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Security & SOC**
-
-![SIEM](https://img.shields.io/badge/SIEM-ELK%20|%20QRadar%20|%20RSA-informational?style=flat-square&logo=elastic&logoColor=white&color=005571)
-![Penetration Testing](https://img.shields.io/badge/Pentest-Kali%20Linux-informational?style=flat-square&logo=kalilinux&logoColor=white&color=557C94)
-![CEHv12](https://img.shields.io/badge/Cert-CEHv12-informational?style=flat-square&logo=hackthebox&logoColor=white&color=9FEF00)
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**DevOps & Automation**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Security+Engineer+%7C+SOC+Analyst+%7C+DevOps+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,11 +15,21 @@
 <a href="https://github.com/NghiaDinh03/CyberAI-Assessment-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaDinh03&repo=CyberAI-Assessment-project&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
-<a href="https://github.com/NghiaDinh03/WintoHDD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaDinh03&repo=WintoHDD&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/NghiaDinh03/ppt-masters">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaDinh03&repo=ppt-masters&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
+
+<br/>
+
+| Project | Description | Updated |
+|---------|-------------|---------|
+| [CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project) | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | May 2026 |
+| [ppt-masters](https://github.com/NghiaDinh03/ppt-masters) | AI generates natively editable PPTX from any document. Full pipeline: extract → plan → render → audio. | May 2026 |
+| [custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03) | Auto Vietsub Pipeline (n8n + FFmpeg + Gemini/Gemma). Auto download → transcribe → translate → burn subtitles. | May 2026 |
+| [NCS_n8n_prd_version](https://github.com/NghiaDinh03/NCS_n8n_prd_version) | Production-grade N8N Automation with NocoDB, Backend API, PostgreSQL, Redis, Nginx Reverse Proxy with SSL. | May 2026 |
+| [TheHive](https://github.com/NghiaDinh03/TheHive) | AI-assisted, cloud-native SOC case management platform (TheHive 4 → Go + Next.js migration). | May 2026 |
 
 ---
 
@@ -80,8 +52,8 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/-🌐_My_Portfolio-58a6ff?style=for-the-badge&logoColor=white)](https://NghiaDinh03.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nghiadu03/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://NghiaDinh03.github.io/portfolio)
 
 </div>
 

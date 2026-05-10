@@ -1,27 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Nghĩa%20Đinh&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Nghiadu03&descSize=18&descAlignY=55&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=149ddd&height=200&section=header&text=Nghĩa%20Đinh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Nghiadu03&descSize=18&descAlignY=55&descColor=e0e0e0"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Security+Engineer+%7C+SOC+Analyst+%7C+DevOps+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Security+Engineer+%7C+SOC+Analyst+%7C+DevOps+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/NghiaDinh03/CyberAI-Assessment-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaDinh03&repo=CyberAI-Assessment-project&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/NghiaDinh03/ppt-masters">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NghiaDinh03&repo=ppt-masters&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
-<br/>
+### 🚀 Top Projects
 
 | Project | Description | Updated |
 |---------|-------------|---------|
@@ -36,25 +23,24 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/NghiaDinh03">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=NghiaDinh03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&hide_rank=true" />
-  </a>
-  <a href="https://github.com/NghiaDinh03">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NghiaDinh03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=NghiaDinh03&theme=github-dark-blue&hide_border=true&background=0D1117" />
 </div>
+
+
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-🌐_My_Portfolio-58a6ff?style=for-the-badge&logoColor=white)](https://NghiaDinh03.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/-🌐_My_Portfolio-149ddd?style=for-the-badge&logoColor=white)](https://NghiaDinh03.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nghiadu03/)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+<br/>
+
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10" style="color: #58a6ff; font-family: monospace; font-size: 16px; background-color: #0d1117; padding: 10px; border-radius: 8px; border: 1px solid #30363d;">
+    🚀 Security Engineer | 🛡️ SOC Analyst | ⚙️ DevOps Engineer | 🌐 Always Learning & Building!
+  </marquee>
+</div>

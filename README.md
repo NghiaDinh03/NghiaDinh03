@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation_n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Video_Coding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vide_Coding-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
@@ -28,14 +28,14 @@
 
 ### 🚀 Active & Recent Projects
 
-| Project | Description | Context / Tech |
-| ------- | ----------- | -------------- |
-| **CyberAI-Assessment-project** | Nền tảng đánh giá an ninh mạng tích hợp AI (Multi-Model RAG Chatbot) chuẩn ISO 27001 / TCVN 11930. | Next.js, FastAPI, VectorDB, Docker, LocalAI |
-| **ppt-masters** | Hệ thống tự động tạo Slide thuyết trình AI chuyên nghiệp (Native PPTX Generation). | Python, AI Prompting, Data Processing |
-| **custom_ffmpeg_ND03** | Tự động hóa xử lý và mã hóa video (Video Coding Automation). | FFmpeg, Scripting, Automation |
-| **TheHive / SOC Deployments** | Triển khai và cấu hình TheHive 5 + Cortex 3 incident response platform. | Docker, Security Operations |
+| Project | Description | Context / Tech | Last Updated |
+| ------- | ----------- | -------------- | ------------ |
+| **CyberAI-Assessment-project** | AI-Powered Cybersecurity Assessment Platform (Multi-Model RAG Chatbot) aligned with ISO 27001 / TCVN 11930. | Next.js, FastAPI, VectorDB, Docker, LocalAI | *May 2026* |
+| **ppt-masters** | Automated professional AI Presentation generation system (Native PPTX Generation). | Python, AI Prompting, Data Processing | *May 2026* |
+| **custom_ffmpeg_ND03** | Automated video processing and encoding (Vide Coding Automation). | FFmpeg, Scripting, Automation | *May 2026* |
+| **TheHive / SOC Deployments** | Deployment and configuration of TheHive 5 + Cortex 3 incident response platform. | Docker, Security Operations | *May 2026* |
 
-*(Danh sách bao gồm các dự án public và private đang thực hiện/bảo trì nội bộ)*
+*(This list includes both public repositories and internal systems currently being maintained)*
 
 ---
 

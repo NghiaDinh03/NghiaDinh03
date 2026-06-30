@@ -13,10 +13,8 @@
 | Project | Description | Updated |
 |---------|-------------|---------|
 | [CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project) | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | May 2026 |
-| [ppt-masters](https://github.com/NghiaDinh03/ppt-masters) | AI generates natively editable PPTX from any document. Full pipeline: extract → plan → render → audio. | May 2026 |
-| [custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03) | Auto Vietsub Pipeline (n8n + FFmpeg + Gemini/Gemma). Auto download → transcribe → translate → burn subtitles. | May 2026 |
-| [NCS_n8n_prd_version](https://github.com/NghiaDinh03/NCS_n8n_prd_version) | Production-grade N8N Automation with NocoDB, Backend API, PostgreSQL, Redis, Nginx Reverse Proxy with SSL. | May 2026 |
-| [TheHive](https://github.com/NghiaDinh03/TheHive) | AI-assisted, cloud-native SOC case management platform (TheHive 4 → Go + Next.js migration). | May 2026 |
+| [DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version) | DevSecOps Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | May 2026 |
+| [Cybersecurity-Portfolio](https://github.com/NghiaDinh03/portfolio) | Modern, high-performance digital portfolio and markdown blog engine built with Next.js. | May 2026 |
 
 ---
 

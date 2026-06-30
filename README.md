@@ -15,6 +15,8 @@
 | [CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project) | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | May 2026 |
 | [DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version) | DevSecOps Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | May 2026 |
 | [Cybersecurity-Portfolio](https://github.com/NghiaDinh03/portfolio) | Modern, high-performance digital portfolio and markdown blog engine built with Next.js. | May 2026 |
+| [custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03) | Auto Vietsub Pipeline (n8n + FFmpeg + Gemini/Gemma). Auto download → transcribe → translate → burn subtitles. | May 2026 |
+| [n8n_deploy](https://github.com/NghiaDinh03/n8n_deploy) | Production-grade N8N Automation with NocoDB, Backend API, PostgreSQL, Redis, Nginx Reverse Proxy with SSL. | May 2026 |
 
 ---
 

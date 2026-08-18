@@ -24,13 +24,14 @@
 
 ### 🛡️ About Me
 
+> I chose the college path to pursue a major in cybersecurity, which might be seen as a disadvantage compared to other university students. However, I remain undeterred and determined to demonstrate my dedication and effort at my current level and have been recognized by many people.
+
 - 🎯 **Roles:** Security Engineer &bull; SOC Analyst &bull; DevOps Engineer
-- 🔍 **Specializations:** Security Operations (SOC), DevSecOps pipelines, Vulnerability Assessment, and ISO 27001 / TCVN 11930 compliance standards.
 - 💡 **Motto:** *Always Learning & Building!*
 
 ---
 
-### ⚙️ Core Specializations & Architecture
+### ⚙️ Core Specializations & Engineering Scope
 
 <table align="center" width="100%">
 <tr>
@@ -39,29 +40,29 @@
 #### 🔒 Security & SOC
 - Security Operations (SOC)
 - Vulnerability Assessment
-- Incident Triage & Response
-- ISO 27001 / TCVN 11930
-- Threat Analysis & Hardening
+- Incident Triage & Analysis
+- ISO 27001 / TCVN 11930 Standards
+- Security Hardening Basics
 
 </td>
 <td width="33%" valign="top">
 
 #### 🚀 DevSecOps & Cloud
 - CI/CD Security Automation
-- Docker & Container Orchestration
+- Docker Containerization
 - Nginx Reverse Proxy & SSL
 - Linux Server Administration
-- Infrastructure Security
+- Infrastructure Security Basics
 
 </td>
 <td width="33%" valign="top">
 
-#### ⚡ Automation & Workflows
-- Event-Driven Pipelines (n8n)
+#### ⚡ Automation & Vibe Coding
+- Vibe Coding & AI-Assisted Workflows
+- Event-Driven Automation (n8n)
+- Scripting (Python / Bash)
 - Automated Media Pipelines (FFmpeg)
-- Automation Scripting (Python / Bash)
-- Production DB (PostgreSQL / Redis)
-- AI Agent & RAG Workflows
+- Rapid Prototyping with AI Agents
 
 </td>
 </tr>
@@ -70,11 +71,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -87,7 +88,7 @@
 | **[DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version)** | DevSecOps Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | `DevSecOps` `Docker` `CI/CD` `Security` |
 | **[Cybersecurity-Portfolio](https://github.com/NghiaDinh03/portfolio)** | Modern, high-performance digital portfolio and markdown blog engine built with Next.js. | `Next.js` `React` `TailwindCSS` |
 | **[custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03)** | Auto Vietsub Pipeline (n8n + FFmpeg + Gemini/Gemma). Auto download &rarr; transcribe &rarr; translate &rarr; burn subtitles. | `n8n` `FFmpeg` `Gemini AI` |
-| **[n8n_deploy](https://github.com/NghiaDinh03/NCS_n8n_prd_version)** | Production-grade N8N Automation with NocoDB, Backend API, PostgreSQL, Redis, Nginx Reverse Proxy with SSL. | `Docker Compose` `Nginx` `PostgreSQL` |
+| **[n8n_deploy](https://github.com/NghiaDinh03/NCS_n8n_prd_version)** | Production-grade N8N Automation with NocoDB, Backend API, Nginx Reverse Proxy with SSL. | `Docker Compose` `Nginx` `Automation` |
 | **[phobert-chatbot](https://github.com/NghiaDinh03/phobert-chatbot)** | Conversational Vietnamese Chatbot engine built on PhoBERT model. | `Python` `PhoBERT` `PyTorch` |
 
 ---

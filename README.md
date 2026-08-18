@@ -26,10 +26,6 @@
 
 > I chose the college path to pursue a major in cybersecurity, which might be seen as a disadvantage compared to other university students. However, I remain undeterred and determined to demonstrate my dedication and effort at my current level and have been recognized by many people.
 
-- 🎯 **Roles:** Security Engineer &bull; SOC Analyst &bull; DevOps Engineer
-- 🔍 **Specializations:** Security Operations (SOC), DevOps pipelines, Threat Intelligence & Threat Hunting, and ISO 27001 / TCVN 11930 compliance standards.
-- 💡 **Motto:** *Always Learning & Building!*
-
 ---
 
 ### ⚙️ Core Specializations & Engineering Scope
@@ -81,16 +77,27 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Projects & Engineering Work
 
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| **[CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project)** | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | `Python` `RAG` `AI/LLM` `ISO 27001` |
-| **[DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version)** | DevOps & Security Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | `DevOps` `Docker` `CI/CD` `Security` |
-| **[Cybersecurity-Portfolio](https://github.com/NghiaDinh03/portfolio)** | Modern, high-performance digital portfolio and markdown blog engine built with Next.js. | `Next.js` `React` `TailwindCSS` |
-| **[custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03)** | Auto Vietsub Pipeline (n8n + FFmpeg + Gemini/Gemma). Auto download &rarr; transcribe &rarr; translate &rarr; burn subtitles. | `n8n` `FFmpeg` `Gemini AI` |
-| **[n8n_deploy](https://github.com/NghiaDinh03/NCS_n8n_prd_version)** | Production-grade N8N Automation with NocoDB, Backend API, Nginx Reverse Proxy with SSL. | `Docker Compose` `Nginx` `Automation` |
-| **[phobert-chatbot](https://github.com/NghiaDinh03/phobert-chatbot)** | Conversational Vietnamese Chatbot engine built on PhoBERT model. | `Python` `PhoBERT` `PyTorch` |
+#### 🛡️ Cybersecurity & Threat Intelligence
+
+| Project | Status | Description | Tech Stack |
+|:---|:---:|:---|:---|
+| **[CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project)** | `Public` | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | `Python` `RAG` `AI/LLM` `ISO 27001` |
+| **IOC Threat Intelligence Engine** | `Private` | Automated Threat Intelligence ingestion, IOC parsing, and enrichment pipeline for cyber threat feeds. | `Python` `Threat Intel` `Cyble` `SOC` |
+| **SOC Fusion Center & Incident Response** | `Private` | Centralized SOC alert monitoring, event analysis, and case management integration with TheHive. | `TheHive` `ELK` `Incident Response` |
+| **ELK SIEM & Forensics Node** | `Private` | Containerized ELK Stack deployment for log centralization and Hayabusa Windows event forensic analysis. | `Docker` `Elasticsearch` `Kibana` `Hayabusa` |
+| **Ethical Hacking & Defense Labs** | `Private` | Hands-on laboratory environments for vulnerability research, network penetration testing, and defensive controls. | `Linux` `Network Security` `Lab` |
+
+#### ⚡ DevOps, Automation & Vibe Coding
+
+| Project | Status | Description | Tech Stack |
+|:---|:---|:---|:---|
+| **[n8n_deploy](https://github.com/NghiaDinh03/NCS_n8n_prd_version)** | `Public` | Production-grade N8N Automation cluster with NocoDB, Backend API, Redis, and SSL-enabled Nginx Reverse Proxy. | `Docker Compose` `Nginx` `SSL` `n8n` |
+| **[DevOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version)** | `Public` | Practical DevOps guides, tutorials, and reproducible lab environments tailored for Vietnamese engineers. | `DevOps` `Docker` `CI/CD` `Linux` |
+| **[custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03)** | `Public` | Automated Vietsub pipeline (n8n + FFmpeg + Gemini AI) for speech-to-text, translation, and subtitle burning. | `n8n` `FFmpeg` `Gemini AI` |
+| **[Cybersecurity-Portfolio](https://github.com/NghiaDinh03/portfolio)** | `Public` | Modern, high-performance digital portfolio and markdown blog engine built with Next.js. | `Next.js` `React` `TailwindCSS` |
+| **[phobert-chatbot](https://github.com/NghiaDinh03/phobert-chatbot)** | `Public` | Conversational Vietnamese Chatbot engine built on PhoBERT model for natural language understanding. | `Python` `PhoBERT` `PyTorch` |
 
 ---
 

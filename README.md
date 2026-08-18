@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Nghĩa%20Đinh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20%E2%80%A2%20SOC%20Analyst%20%E2%80%A2%20DevOps%20Engineer&descSize=17&descAlignY=60&descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:0ea5e9&height=220&section=header&text=Nghĩa%20Đinh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20%E2%80%A2%20SOC%20Analyst%20%E2%80%A2%20DevOps%20Engineer&descSize=16&descAlignY=60&descColor=bae6fd"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1500&color=38BDF8&center=true&vCenter=true&width=620&lines=Security+Engineer+%E2%80%A2+SOC+Analyst+%E2%80%A2+DevOps+Engineer;Always+learning%2C+always+doing.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=620&lines=Security+Engineer+%E2%80%A2+SOC+Analyst+%E2%80%A2+DevOps+Engineer;Always+Learning+%26+Building!)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nghiadu03/" target="_blank">
@@ -22,27 +22,66 @@
 
 ---
 
-### About Me
+### 🛡️ About Me
 
-- **Roles:** Security Engineer &bull; SOC Analyst &bull; DevOps Engineer
-- **Specializations:** Security Operations (SOC), DevSecOps pipelines, Vulnerability Assessment, and ISO 27001 / TCVN 11930 compliance frameworks.
-- **Slogan:** *Always learning, always doing.*
-
----
-
-### Core Capabilities & Engineering Scope
-
-| Domain | Focus Areas & Practices | Standards & Tooling |
-|:---|:---|:---|
-| **Security Operations (SOC)** | SIEM monitoring, threat detection, vulnerability assessment, incident triage | ISO/IEC 27001, TCVN 11930, OWASP Top 10 |
-| **DevSecOps & Infrastructure** | CI/CD security gating, containerized environments, reverse proxy, Linux administration | Docker, Kubernetes, Nginx, Linux (Ubuntu/Debian) |
-| **Automation & Pipelines** | Event-driven workflow automation, data ETL, media processing pipelines | n8n Automation, Python, Bash, PostgreSQL, Redis |
+- 🎯 **Roles:** Security Engineer &bull; SOC Analyst &bull; DevOps Engineer
+- 🔍 **Specializations:** Security Operations (SOC), DevSecOps pipelines, Vulnerability Assessment, and ISO 27001 / TCVN 11930 compliance standards.
+- 💡 **Motto:** *Always Learning & Building!*
 
 ---
 
-### Featured Projects
+### ⚙️ Core Specializations & Architecture
 
-| Project | Description | Scope |
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+
+#### 🔒 Security & SOC
+- Security Operations (SOC)
+- Vulnerability Assessment
+- Incident Triage & Response
+- ISO 27001 / TCVN 11930
+- Threat Analysis & Hardening
+
+</td>
+<td width="33%" valign="top">
+
+#### 🚀 DevSecOps & Cloud
+- CI/CD Security Automation
+- Docker & Container Orchestration
+- Nginx Reverse Proxy & SSL
+- Linux Server Administration
+- Infrastructure Security
+
+</td>
+<td width="33%" valign="top">
+
+#### ⚡ Automation & Workflows
+- Event-Driven Pipelines (n8n)
+- Automated Media Pipelines (FFmpeg)
+- Automation Scripting (Python / Bash)
+- Production DB (PostgreSQL / Redis)
+- AI Agent & RAG Workflows
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
 |:---|:---|:---|
 | **[CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project)** | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | `Python` `RAG` `AI/LLM` `ISO 27001` |
 | **[DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version)** | DevSecOps Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | `DevSecOps` `Docker` `CI/CD` `Security` |
@@ -53,7 +92,7 @@
 
 ---
 
-### GitHub Activity
+### 📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NghiaDinh03&theme=react-dark&hide_border=true&bg_color=0D1117&color=38bdf8&line=0284c7&point=38bdf8&area=true" width="100%" alt="NghiaDinh03 Activity Graph" />
@@ -62,5 +101,5 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:0ea5e9&height=100&section=footer"/>
 </div>

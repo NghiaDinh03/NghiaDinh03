@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Nghĩa%20Đinh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Engineer%20%E2%80%A2%20SOC%20Analyst%20%E2%80%A2%20DevOps%20Engineer&descSize=17&descAlignY=60&descColor=94a3b8"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Security+Engineer+%E2%80%A2+SOC+Analyst+%E2%80%A2+DevOps+Engineer;Security+Assessment+%26+SOC+Operations;DevSecOps+Pipelines+%26+Cloud+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1500&color=38BDF8&center=true&vCenter=true&width=620&lines=Security+Engineer+%E2%80%A2+SOC+Analyst+%E2%80%A2+DevOps+Engineer;Always+learning%2C+always+doing.)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nghiadu03/" target="_blank">
@@ -25,36 +25,24 @@
 ### About Me
 
 - **Roles:** Security Engineer &bull; SOC Analyst &bull; DevOps Engineer
-- **Focus:** Security Operations (SOC), DevSecOps pipelines, Vulnerability Assessment, and ISO 27001 / TCVN 11930 compliance standards.
-- **Infrastructure:** Docker, Kubernetes, Nginx, Linux environments, and automation workflows.
+- **Specializations:** Security Operations (SOC), DevSecOps pipelines, Vulnerability Assessment, and ISO 27001 / TCVN 11930 compliance frameworks.
+- **Slogan:** *Always learning, always doing.*
 
 ---
 
-### Tech Stack & Tools
+### Core Capabilities & Engineering Scope
 
-<div align="center">
-
-**Infrastructure & Security**  
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,bash,postgres,redis" alt="Infrastructure Tools" />
-</a>
-
-<br/><br/>
-
-**Development & CI/CD**  
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,react,tailwind,git,githubactions,vscode" alt="Languages and Frameworks" />
-</a>
-
-</div>
+| Domain | Focus Areas & Practices | Standards & Tooling |
+|:---|:---|:---|
+| **Security Operations (SOC)** | SIEM monitoring, threat detection, vulnerability assessment, incident triage | ISO/IEC 27001, TCVN 11930, OWASP Top 10 |
+| **DevSecOps & Infrastructure** | CI/CD security gating, containerized environments, reverse proxy, Linux administration | Docker, Kubernetes, Nginx, Linux (Ubuntu/Debian) |
+| **Automation & Pipelines** | Event-driven workflow automation, data ETL, media processing pipelines | n8n Automation, Python, Bash, PostgreSQL, Redis |
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Scope |
 |:---|:---|:---|
 | **[CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project)** | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | `Python` `RAG` `AI/LLM` `ISO 27001` |
 | **[DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version)** | DevSecOps Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | `DevSecOps` `Docker` `CI/CD` `Security` |

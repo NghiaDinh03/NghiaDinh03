@@ -27,6 +27,7 @@
 > I chose the college path to pursue a major in cybersecurity, which might be seen as a disadvantage compared to other university students. However, I remain undeterred and determined to demonstrate my dedication and effort at my current level and have been recognized by many people.
 
 - 🎯 **Roles:** Security Engineer &bull; SOC Analyst &bull; DevOps Engineer
+- 🔍 **Specializations:** Security Operations (SOC), DevSecOps pipelines, Threat Intelligence & Threat Hunting, and ISO 27001 / TCVN 11930 compliance standards.
 - 💡 **Motto:** *Always Learning & Building!*
 
 ---
@@ -39,7 +40,7 @@
 
 #### 🔒 Security & SOC
 - Security Operations (SOC)
-- Vulnerability Assessment
+- Threat Intelligence & Hunting
 - Incident Triage & Analysis
 - ISO 27001 / TCVN 11930 Standards
 - Security Hardening Basics

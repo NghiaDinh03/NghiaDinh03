@@ -1,46 +1,51 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=149ddd&height=200&section=header&text=Nghĩa%20Đinh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Nghiadu03&descSize=18&descAlignY=55&descColor=e0e0e0"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Security+Engineer+%7C+SOC+Analyst+%7C+DevOps+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+# Nghĩa Đinh
+
+**Security Engineer &bull; SOC Analyst &bull; DevOps Engineer**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1200&color=60A5FA&center=true&vCenter=true&width=560&lines=Security+Engineering+%7C+SOC+Operations;DevSecOps+%7C+Cloud+%26+Infrastructure+Automation;Building+secure+and+resilient+systems)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://NghiaDinh03.github.io/portfolio">Portfolio</a> &bull;
+  <a href="https://www.linkedin.com/in/nghiadu03/">LinkedIn</a> &bull;
+  <a href="https://github.com/NghiaDinh03">GitHub</a>
+</p>
 
 </div>
 
 ---
 
-### 🚀 Top Projects
+### Overview
 
-| Project | Description | Updated |
-|---------|-------------|---------|
-| [CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project) | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | May 2026 |
-| [DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version) | DevSecOps Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | May 2026 |
-| [Cybersecurity-Portfolio](https://github.com/NghiaDinh03/portfolio) | Modern, high-performance digital portfolio and markdown blog engine built with Next.js. | May 2026 |
-| [custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03) | Auto Vietsub Pipeline (n8n + FFmpeg + Gemini/Gemma). Auto download → transcribe → translate → burn subtitles. | May 2026 |
-| [n8n_deploy](https://github.com/NghiaDinh03/NCS_n8n_prd_version) | Production-grade N8N Automation with NocoDB, Backend API, PostgreSQL, Redis, Nginx Reverse Proxy with SSL. | May 2026 |
+Focused on cybersecurity operations, DevSecOps pipelines, and infrastructure automation. Experienced in vulnerability assessment, ISO 27001 / TCVN 11930 compliance frameworks, SIEM monitoring, and containerized deployments.
 
 ---
 
-### 📊 GitHub Activity
+### Technical Competencies
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NghiaDinh03&theme=github-dark-blue&hide_border=true&background=0D1117" />
-</div>
-
-
+| Domain | Technologies & Tooling |
+|:---|:---|
+| **Cybersecurity** | SIEM / SOC Operations, ISO 27001, TCVN 11930, Threat Analysis, Vulnerability Assessment |
+| **DevOps & Infrastructure** | Docker, Docker Compose, Kubernetes, Nginx Reverse Proxy, Linux (Ubuntu/Debian), Redis, PostgreSQL |
+| **Automation & Development** | Python, Bash Scripting, JavaScript / TypeScript, n8n Automation, FFmpeg |
 
 ---
 
+### Featured Projects
+
+| Repository | Focus | Description | Core Stack |
+|:---|:---|:---|:---|
+| [CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project) | Security & AI | AI-driven cybersecurity assessment platform with Multi-Model RAG chatbot aligned with ISO 27001 / TCVN 11930. | `Python` `RAG` `LLM` |
+| [DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version) | DevSecOps | Hands-on tutorials, guides, and reproducible lab environments for DevSecOps workflows. | `DevSecOps` `Docker` `CI/CD` |
+| [Cybersecurity-Portfolio](https://github.com/NghiaDinh03/portfolio) | Web & Docs | High-performance digital portfolio and markdown-driven technical blog. | `Next.js` `React` `TailwindCSS` |
+| [custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03) | Automation | Automated media pipeline using n8n, FFmpeg, and Gemini models for subtitle translation and burning. | `n8n` `FFmpeg` `Gemini` |
+| [n8n_deploy](https://github.com/NghiaDinh03/NCS_n8n_prd_version) | Infrastructure | Production-ready n8n automation stack with NocoDB, PostgreSQL, Redis, and SSL-enabled Nginx proxy. | `Docker` `Nginx` `PostgreSQL` |
+
+---
+
+### GitHub Activity
+
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-🌐_My_Portfolio-149ddd?style=for-the-badge&logoColor=white)](https://NghiaDinh03.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nghiadu03/)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10" style="color: #58a6ff; font-family: monospace; font-size: 16px; background-color: #0d1117; padding: 10px; border-radius: 8px; border: 1px solid #30363d;">
-    🚀 Security Engineer | 🛡️ SOC Analyst | ⚙️ DevOps Engineer | 🌐 Always Learning & Building!
-  </marquee>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NghiaDinh03&theme=github-compact&hide_border=true&bg_color=0D1117&color=60A5FA&line=3B82F6&point=93C5FD&area=true" width="100%" alt="GitHub Activity Graph" />
 </div>

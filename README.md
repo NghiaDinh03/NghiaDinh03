@@ -27,7 +27,7 @@
 > I chose the college path to pursue a major in cybersecurity, which might be seen as a disadvantage compared to other university students. However, I remain undeterred and determined to demonstrate my dedication and effort at my current level and have been recognized by many people.
 
 - 🎯 **Roles:** Security Engineer &bull; SOC Analyst &bull; DevOps Engineer
-- 🔍 **Specializations:** Security Operations (SOC), DevSecOps pipelines, Threat Intelligence & Threat Hunting, and ISO 27001 / TCVN 11930 compliance standards.
+- 🔍 **Specializations:** Security Operations (SOC), DevOps pipelines, Threat Intelligence & Threat Hunting, and ISO 27001 / TCVN 11930 compliance standards.
 - 💡 **Motto:** *Always Learning & Building!*
 
 ---
@@ -48,12 +48,12 @@
 </td>
 <td width="33%" valign="top">
 
-#### 🚀 DevSecOps & Cloud
-- CI/CD Security Automation
+#### 🚀 DevOps & Cloud
+- CI/CD Pipeline Automation
 - Docker Containerization
 - Nginx Reverse Proxy & SSL
 - Linux Server Administration
-- Infrastructure Security Basics
+- Infrastructure Setup Basics
 
 </td>
 <td width="33%" valign="top">
@@ -86,7 +86,7 @@
 | Project | Description | Tech Stack |
 |:---|:---|:---|
 | **[CyberAI-Assessment](https://github.com/NghiaDinh03/CyberAI-Assessment-project)** | AI-Powered Cybersecurity Assessment Platform with Multi-Model RAG Chatbot, aligned with ISO 27001 / TCVN 11930. | `Python` `RAG` `AI/LLM` `ISO 27001` |
-| **[DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version)** | DevSecOps Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | `DevSecOps` `Docker` `CI/CD` `Security` |
+| **[DevSecOps-Tutorials](https://github.com/NghiaDinh03/DevSecOps_Tutorials_Vietnamese-version)** | DevOps & Security Tutorials, Guides & Lab environments tailored for Vietnamese engineers. | `DevOps` `Docker` `CI/CD` `Security` |
 | **[Cybersecurity-Portfolio](https://github.com/NghiaDinh03/portfolio)** | Modern, high-performance digital portfolio and markdown blog engine built with Next.js. | `Next.js` `React` `TailwindCSS` |
 | **[custom_ffmpeg_ND03](https://github.com/NghiaDinh03/custom_ffmpeg_ND03)** | Auto Vietsub Pipeline (n8n + FFmpeg + Gemini/Gemma). Auto download &rarr; transcribe &rarr; translate &rarr; burn subtitles. | `n8n` `FFmpeg` `Gemini AI` |
 | **[n8n_deploy](https://github.com/NghiaDinh03/NCS_n8n_prd_version)** | Production-grade N8N Automation with NocoDB, Backend API, Nginx Reverse Proxy with SSL. | `Docker Compose` `Nginx` `Automation` |
